@@ -40,4 +40,4 @@ In this program I used data visualizations which are pictured below
 I also utilized queries in order to analyze different data
 ![Query](https://github.com/beccabeastly/ETF_Portfolio_Analysis/blob/main/query_photo.png)
 # Contributors
-[Email](beccabeastly@gmail.com)
+[Beccas_Email](beccabeastly@gmail.com)

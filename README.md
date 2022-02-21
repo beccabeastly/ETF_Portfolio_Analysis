@@ -35,7 +35,7 @@ utilize hvplot by including code `import hvplot.pandas` library
 # Code Footnotes
 
 In this program I used data visualizations which are pictured below
-![Cumulative_Returns]()
+![Cumulative_Returns](https://github.com/beccabeastly/ETF_Portfolio_Analysis/blob/main/portfolio_returns_photo.png)
 
 I also utilized queries in order to analyze different data
 ![Query]()

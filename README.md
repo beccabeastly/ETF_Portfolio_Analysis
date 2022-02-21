@@ -38,6 +38,6 @@ In this program I used data visualizations which are pictured below
 ![Cumulative_Returns](https://github.com/beccabeastly/ETF_Portfolio_Analysis/blob/main/portfolio_returns_photo.png)
 
 I also utilized queries in order to analyze different data
-![Query]()
+![Query](https://github.com/beccabeastly/ETF_Portfolio_Analysis/blob/main/query_photo.png)
 # Contributors
 [Email](beccabeastly@gmail.com)
